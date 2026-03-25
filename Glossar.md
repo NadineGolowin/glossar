@@ -29,7 +29,7 @@ Eine Rolle im [agilen Management](#Agiles-Management). Der/die agile:r Manager:i
 
 ## Akademische Projekte
 [ id=academic_projects ]
-Projekte und resultierende Konsortien aus der 1. ergänzenden [BMBF](#BMBF) Ausschreibung MaterialDigital im Rahmen der Innovations-Plattform MaterialDigital. Sie sollen primär in Zusammenarbeit mit der Innovations-Plattform Inhalte und Bausteine für die PMD auf Basis von [Use Cases](#Use-Cases)
+Projekte und resultierende Konsortien aus der 1. ergänzenden [BMFTR](#BMFTR) Ausschreibung MaterialDigital im Rahmen der Plattform MaterialDigital. Sie sollen primär in Zusammenarbeit mit der Plattform Inhalte und Bausteine für die PMD auf Basis von [Use Cases](#Use-Cases)
 
 ## Anwendungsontologie
 [ id=application_ontology ]
@@ -61,9 +61,9 @@ Ein [Triplestore](#Triplestore), bzw. eine Graph-Datenbank. Es bietet eine Schni
 Serialisierte Daten, die dadurch wie ein langer Text abgespeichert und gegebenenfalls deserialisiert sind, deren Einzelwerte allerdings nicht direkt abgefragt werden können.
 
 
-## BMBF
-[ id=bmbf ]
-BMBF ist die Abkürzung für Bundesministerium für Forschung und Bildung und fördert durch finanzielle Mittel Forschung in allen Bereichen der Wissenschaft.
+## BMFTR
+[ id=bmftr ]
+BMFTR ist die Abkürzung für Bundesministerium für Forschung, Technolgie und Raumfahrt und fördert durch finanzielle Mittel Forschung in allen Bereichen der Wissenschaft.
 
 
 
@@ -142,13 +142,10 @@ Ein Framework ist eine Rahmenstruktur, welche notwendig zur Befüllung des Daten
 [ id=gitlab_github ]
 Gitlab ist eine webbasierte Anwendung, bei der man in Projekten zusammenarbeiten kann. Projekten werden in repositories archiviert und eine [Versionierung](#Versionierung) ist möglich. GitHub ist dem Gitlab sehr ähnlich, jedoch öffentlich für jeden zugänglich. In der Regel wird GitLab zum Projektmanagement und GitHub zur Ergebnisveröffentlichung verwendet.
 
-## Governance
-[ id=governance ]
-Die Governance bildet die gemeinsame Lenkungsstruktur für beteiligte Projekte und Kooperationspartner im Rahmen des Aufbaus der [Plattform MaterialDigital](#Plattform-MaterialDigital). Diese ist im Downloadbereich der Webseite herunterladbar.
 
 ## GUI
 [ id=gui ]
-GUI steht für Graphical User Interface und bezeichnet eine Benutzer:innenschnittstelle eines Computers mit der 
+GUI steht für Graphical User Interface und bezeichnet eine Benutzendenschnittstelle eines Computers mit der 
 eingabe (bspw. Maus oder Gesten). Mittels grafischer Symbole und Steuerelemente macht es Anwendungssoftware bedienbar. Die GUI ersetzt dadurch Programmsteuerung durch die [Kommandozeile](#Kommandozeile) und macht Software intuitiv und für Fachfremde bedienbar.
 
 ---
@@ -165,7 +162,7 @@ Möglichkeit kollaborativ an Texten zu arbeiten. HackMD unterstützt MarkDown.
 
 ## Industrielle Projekte
 [ id=industrial_projects ]
-Projekte und resultierende Konsortien aus der 2. ergänzenden [BMBF](#BMBF) Ausschreibung MaterialDigital im Rahmen der Innovations-Plattform MaterialDigital. Sie sollen primär in Zusammenarbeit mit der [Innovations-Plattform](#Plattform-MaterialDigital) Inhalte und Bausteine für die PMD erarbeiten.
+Projekte und resultierende Konsortien aus der 2. und 3. ergänzenden [BMFTR](#BMFTR) Ausschreibung MaterialDigital im Rahmen der Plattform MaterialDigital. Sie sollen primär in Zusammenarbeit mit der [Plattform](#Plattform-MaterialDigital) Inhalte und Bausteine für die PMD erarbeiten.
 
 ## Inferenz / Inference
 [ id=inference ]
@@ -246,7 +243,7 @@ Ein String, Float oder Datum das per [Data Type Property](#Property) einem Konze
 
 ## Managementkreis
 [ id=management_board ]
-Der Plattform ist ein vom [BMBF](#BMBF) einberufener, industriell besetzter Managementkreis beigeordnet. Er soll die Fokussierung der Aktivitäten im Projekt auf den maximalen industriellen Nutzen gewährleisten und einen optimalen Transfer der Ergebnisse in die Anwendung sicherstellen. Der Managementkreis tagt ein- bis zweimal jährlich gemeinsam mit den Mitgliedern der Plattform und wird in die Workshops des Vorhabens eingebunden. 
+Der Plattform ist ein vom [BMFTR](#BMFTR) einberufener, industriell besetzter Managementkreis beigeordnet. Er soll die Fokussierung der Aktivitäten im Projekt auf den maximalen industriellen Nutzen gewährleisten und einen optimalen Transfer der Ergebnisse in die Anwendung sicherstellen. Der Managementkreis tagt ein- bis zweimal jährlich gemeinsam mit den Mitgliedern der Plattform und wird in die Workshops des Vorhabens eingebunden. 
 
 ## Mapping
 [ id=mapping ]
@@ -311,7 +308,7 @@ Die Plattform MaterialDigital (PMD) ist die Infrastruktur, die für einen einhei
 
 ## Plattformverantwortliches Konsortium / Plattformträger
 [ id=platform_responsible_consortium ]
-Das Konsortium, das die Plattform MaterialDigital (PMD) seit ihrem Beginn im Juli 2019 betreut, bestehend aus der Bundesanstalt für Materialforschung und -prüfung (BAM), dem Karlsruher Institut für Technologie (KIT), dem Max-Planck-Institut für Eisenforschung (MPIE), dem Fraunhofer Institut für Werkstoffmechanik (IWM) und dem Leibniz-Institut für Werkstofforientierte Technologien (IWT).
+Das Konsortium, das die Plattform MaterialDigital (PMD) seit ihrem Beginn im Juli 2019 betreut, bestehend aus der Bundesanstalt für Materialforschung und -prüfung (BAM), dem Karlsruher Institut für Technologie (KIT), dem Max-Planck-Institut für Eisenforschung (MPIE), dem Fraunhofer Institut für Werkstoffmechanik (IWM), dem Leibniz-Institut für Werkstofforientierte Technologien (IWT), sowie dem Leibniz-Institut für Informationsinfrastruktur (FIZ).
 
 ## PMD-Central / PMD-C
 [ id=pmd-central-pmd-c ]
@@ -331,7 +328,7 @@ Gewählte Vertretende eines geförderten Konsortiums eines [akademischen](#Akade
 
 ## Projektträger
 [ id=project_sponsor ]
-Projektträger werden vom [BMBF](#BMBF) eingesetzt und setzen die Projekte des Ministeriums fachlich und organisatorisch um. 
+Projektträger werden vom [BMFTR](#BMFTR) eingesetzt und setzen die Projekte des Ministeriums fachlich und organisatorisch um. 
 Sie beraten Förderinteressenten, Antragsstellende und Zuwendungsempfangende und sind für die administrative Bearbeitung und fachliche Begleitung der Projekte in allen Phasen zuständig.
 
 ## Property
